@@ -19,8 +19,8 @@ description: >-
 >
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis luctus arcu, nec imperdiet tellus gravida sit amet. Donec eget dui vel ante lacinia finibus ultricies quis sapien. Fusce ut tincidunt sem. Suspendisse dignissim erat quis leo tincidunt, mattis congue nisi maximus. Donec id mi mattis, faucibus erat in, conditi.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="trade.md" %}
+[trade.md](trade.md)
 {% endcontent-ref %}
 
 ## <mark style="color:purple;">Pool</mark>
@@ -43,14 +43,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis luctus 
 >
 >     Spend your credits rewardeds and win more!
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="pool.md" %}
+[pool.md](pool.md)
 {% endcontent-ref %}
 
 ## <mark style="color:purple;">Fee with transactions</mark>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis luctus arcu, nec imperdiet tellus gravida sit amet. Donec eget dui vel ante lacinia finibus ultricies quis sapien. Fusce ut tincidunt sem. Suspendisse dignissim erat quis leo tincidunt, mattis congue nisi maximus. Donec id mi mattis, faucibus erat in, condim
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fee-with-transactions.md" %}
+[fee-with-transactions.md](fee-with-transactions.md)
 {% endcontent-ref %}

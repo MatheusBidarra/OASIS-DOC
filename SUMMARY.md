@@ -11,18 +11,19 @@
 
 ## Tokens
 
-* [AOS](tokens/aos.md)
-* [OASIS](tokens/oasis.md)
+* [add a PNG pic of -> AOS](tokens/add-a-png-pic-of-greater-than-aos.md)
+* [add a PNG pic of ->OASIS](tokens/add-a-png-pic-of-greater-than-oasis.md)
 
 ## Economy
 
-* [About economy of the OASIS Swap](economy/about-economy-of-the-oasis-swap.md)
+* [About the economy of        OASIS](economy/about-the-economy-of-oasis.md)
 * [Why choose us](economy/why-choose-us.md)
 
 ## Roadmap
 
-* [OASIS Swap and development plan](roadmap/oasis-swap-and-development-plan.md)
+* [Development plan](roadmap/development-plan.md)
 
-## Learn
+## Must-be-readed
 
-* [Frequently Asked Questions (F.A.Q)](learn/frequently-asked-questions-f.a.q.md)
+* [Terms of use](must-be-readed/terms-of-use.md)
+* [Frequently Asked Questions (F.A.Q)](must-be-readed/frequently-asked-questions-f.a.q.md)
